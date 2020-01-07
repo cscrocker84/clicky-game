@@ -60,7 +60,7 @@ class App extends Component {
     }
   };
 
-//the order of components to be rendered: navbar, jumbotron, friendcard, footer 
+//the order of components to be rendered: navbar, jumbotron, card, footer 
   render() {
     return (
       <div>
