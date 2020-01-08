@@ -10,7 +10,7 @@
   float: left;
   }
 
-  image {
-    max-width: 100%;
+  .img-container {
+    /* max-width: 100%; */
     max-height: 100%;
 }
